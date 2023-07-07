@@ -190,7 +190,7 @@ body {
     height: 250px;
     border: solid #0A1828;
     margin: 5px;
-    background-image: url(../images/tetris.png);
+    background-image: url(https://github.com/Coridane/travelagentapp/blob/127709ef8efbf0de1c8d8f56109a79781f40b2bd/assets/img/mock1.png);
     background-size: cover;
     filter: blur(5px);
     filter: grayscale(85%);
